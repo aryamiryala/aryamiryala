@@ -3,7 +3,7 @@
 
 - 🔴🟡 **USC MS Applied Data Science Student**
 
-- 🌱 I’m currently learning **database systems, machine learning technologies, database management systems (Spark, Hadoop, AW)S**
+- 🌱 I’m currently learning **database systems, machine learning technologies, database management systems (Spark, Hadoop, AWS)**
 
 - 🐌 **UC Santa Cruz Alumni**
 
