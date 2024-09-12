@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔴🟡 **USC MS Applied Data Science Student**
+- 🔴🟡 USC MS Applied Data Science Student
 
-- 🌱 I’m currently learning **database systems, machine learning technologies, database management systems (Spark, Hadoop, AWS)**
+- 🐌 UC Santa Cruz Alumni
 
-- 🐌 **UC Santa Cruz Alumni**
+- 🌉 Bay Area
 
-- 🌉 **Bay Area**
+- 🌱 I’m currently learning database systems, machine learning technologies, database management systems (Spark, Hadoop, AWS)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about anything
 
-- 📫 How to reach me **miryala@usc.edu**
+- 📫 How to reach me miryala@usc.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
