@@ -29,7 +29,9 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
-        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat" alt="NLP" />
+        <img src="https://img.shields.io/badge/Cypher-008CC1?style=flat" alt="Cypher" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -45,10 +47,13 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://github.com/aryamiryala/Cinesync">Cinesync</a></h4>
-      <p>Advanced AI group chat system for film production location management</p>
+      <p>Advanced machine learning and software application leveraging agentic workflows to synchronize and curate media.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/LLMs-FF9900?style=flat" alt="LLMs" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/GPT--4o_mini-412991?style=flat&logo=openai&logoColor=white" alt="GPT-4o mini" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF9D00?style=flat" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA" />
       </p>
     </td>
     <td width="50%" valign="top">
