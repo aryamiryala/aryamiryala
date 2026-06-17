@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔴🟡 USC MS Applied Data Science Almuni
+- 🔴🟡 USC MS Applied Data Science Alumni
 
 - 🐌 UC Santa Cruz Alumni
 
