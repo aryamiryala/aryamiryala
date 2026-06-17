@@ -7,7 +7,8 @@
 
 - 🌉 Bay Area
 
-- Currently working at T-Mobile as a AI/ML Engineer.
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b23e17c6-1d92-4663-b2d6-b6f8b48c55d4" />
+Currently working at T-Mobile as an AI/ML Engineer.
 
 - 📫 How to reach me aryamiryala5@gmail.com
 
