@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔴🟡 USC MS Applied Data Science Student
+- 🔴🟡 USC MS Applied Data Science Almuni
 
 - 🐌 UC Santa Cruz Alumni
 
 - 🌉 Bay Area
 
-- 🌱 I’m currently learning database systems, machine learning technologies, database management systems (Spark, Hadoop, AWS)
+- Currently working at T-Mobile as a AI/ML Engineer.
 
-- 💬 Ask me about anything
-
-- 📫 How to reach me miryala@usc.edu
+- 📫 How to reach me aryamiryala5@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
