@@ -40,7 +40,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://github.com/aryamiryala/Cinesync">Cinesync</a></h4>
-      <p>Advanced domain-specific AI group chat system for film production location management. </p>
+      <p>RAG-powered group chat platform for film production teams. Answers permit, union, and compliance questions with source citations drawn from 12 real FilmLA, DGA, and IATSE PDFs — with role-filtered retrieval, TMZ zone lookup, golden hour analysis, and AI vision analysis of uploaded location photos. </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
