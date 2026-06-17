@@ -22,3 +22,39 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamiryala&show_icons=true&locale=en&layout=compact" alt="aryamiryala" /></p>
 
 
+<h3>🏟️ Featured Projects</h3>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌴 <a href="https://github.com/aryamiryala/SoCal-Context-Aware-Planner">SoCal Context-Aware Trip Planner</a></h4>
+      <p>Constraint-aware recommendation system integrating NLP-extracted signals and graph databases to create optimized, intelligent travel itineraries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
+        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat" alt="NLP" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/aryamiryala/py-cuda-engine">GPU-Accelerated Compute Engine</a></h4>
+      <p>High-performance matrix operations and image processing library hitting an ~11,500x speedup over CPU baselines by invoking CUDA kernels directly from Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/aryamiryala/Cinesync">Cinesync</a></h4>
+      <p>Advanced AI group chat system for film production location management</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LLMs-FF9900?style=flat" alt="LLMs" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
