@@ -47,7 +47,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://github.com/aryamiryala/Cinesync">Cinesync</a></h4>
-      <p>Advanced machine learning and software application leveraging agentic workflows to synchronize and curate media.</p>
+      <p>Advanced domain-specific AI group chat system for film production location management. </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -57,6 +57,14 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/aryamiryala/document-embeddings">Document Embedding Comparison</a></h4>
+      <p>Benchmarks Doc2Vec against Word2Vec + Bag-of-Words binning for unsupervised clustering of Reddit posts across 20, 100, and 300 dimensions, evaluated with Silhouette and Davies-Bouldin scores.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Gensim-4B8BBE?style=flat" alt="Gensim" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat" alt="NLP" />
+      </p>
     </td>
   </tr>
 </table>
